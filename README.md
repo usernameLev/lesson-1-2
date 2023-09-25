@@ -1,5 +1,7 @@
 # Задание для определения уровня знаний верстки
 
+<a href="https://usernamelev.github.io/lesson-1-2/">Click here!</a>
+
 ![Template](/template.jpg)
 
 Если верстку не знаете совсем - можете приступить к изучению с нуля.
